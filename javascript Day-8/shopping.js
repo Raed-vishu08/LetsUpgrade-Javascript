@@ -1,20 +1,20 @@
 let merch = [
   {
     id: 1,
-    name: "3 Piece Tux",
+    name: "Tux",
     size: "m",
     color: "gray",
     price: 8000,
-    image: "https://agastya8.github.io/js_assignment8/images/3-piece-tux.webp",
+    image: "https://github.com/Raed-vishu08/images/7.PNG",
     description: "Classic 3 piece tuxedo",
   },
   {
     id: 2,
-    name: "Black tuxedo",
+    name: "tuxedo",
     size: "M",
     color: "Black",
     price: 6000,
-    image: "https://agastya8.github.io/js_assignment8/images/black-tux.jpg",
+    image: "https://github.com/Raed-vishu08/images/8.PNG",
     description: "Black tuxedo from kingsmen",
   },
 
@@ -26,7 +26,7 @@ let merch = [
     color: "Ash",
     price: 9000,
     image:
-      "https://agastya8.github.io/js_assignment8/images/double-brested.jpg",
+      "https://github.com/Raed-vishu08/images/11.PNG",
     description: "Double brested grey suit",
   },
 
@@ -36,7 +36,7 @@ let merch = [
     size: "8",
     color: "Black",
     price: 3000,
-    image: "https://agastya8.github.io/js_assignment8/images/brouge.jpg",
+    image: "https://github.com/Raed-vishu08/images/idg.PNG",
     description: "black brouge for formal suiting",
   },
 
@@ -47,7 +47,7 @@ let merch = [
     color: "orange",
     price: 8000,
     image:
-      "https://agastya8.github.io/js_assignment8/images/burnt-orange-tux.jpg",
+      "https://github.com/Raed-vishu08/images/grey.PNG",
     description: "Party wear orange tuxedo",
   },
 
@@ -58,7 +58,7 @@ let merch = [
     color: "black",
     price: 2000,
     image:
-      "https://agastya8.github.io/js_assignment8/images/clutter-and-gloss.jpg",
+      "https://github.com/Raed-vishu08/images/blue.PNG",
     description: "Gentlemen swag specs",
   },
   {
@@ -68,7 +68,7 @@ let merch = [
     color: "black",
     price: 7000,
     image:
-      "https://agastya8.github.io/js_assignment8/images/doubl-brested-black.jpg",
+      "https://github.com/Raed-vishu08/images/9.PNG",
     description: "Good looking Traditional Dress",
   },
   {
@@ -78,7 +78,7 @@ let merch = [
     color: "blue",
     price: 10000,
     image:
-      "https://agastya8.github.io/js_assignment8/images/bluestrips-double-brested.jpg",
+      "https://github.com/Raed-vishu08/images/10.PNG",
     description: "Good looking suit",
   },
   {
@@ -87,7 +87,7 @@ let merch = [
     size: "-",
     color: "blue",
     price: 1200,
-    image: "https://agastya8.github.io/js_assignment8/images/heure.jpg",
+    image: "https://github.com/Raed-vishu08/images/12.PNG",
     description: "classy Watch",
   },
   {
@@ -96,7 +96,7 @@ let merch = [
     size: "M",
     color: "Henna",
     price: 4000,
-    image: "https://agastya8.github.io/js_assignment8/images/jacket.jpg",
+    image: "https://github.com/Raed-vishu08/images/pantiy.PNG",
     description: "damn looking jacket",
   },
   {
@@ -106,7 +106,7 @@ let merch = [
     color: "black",
     price: 6000,
     image:
-      "https://agastya8.github.io/js_assignment8/images/leatheroxford.webp",
+      "https://github.com/Raed-vishu08/images/skyblue.PNG",
     description: "Black oxford for gentlemen's collection",
   },
   {
@@ -116,7 +116,7 @@ let merch = [
     color: "Henna",
     price: 12000,
     image:
-      "https://agastya8.github.io/js_assignment8/images/singleBrestCoat.jpg",
+      "https://github.com/Raed-vishu08/images/idg.PNG",
     description: "single brested suit with long coat",
   },
 ];
